@@ -1,7 +1,18 @@
-# Code Refactor Starter Code
-This code was refactored by Stephanie. The style sheet and index were reorganized.
-Items in the index we relabeled in a way that was more descriptive and alt text was added to photos.
+# Horiseon Homepage
 
-## Enjoy
+## About
+The purpose of this project was to refactor the code of this website. It was refactored to be more efficient and to work properly.
+
+
+## Process
+Style classes were used to apply the same styles to similar objects. Columns were used along with different text and picture alignments to make the website more visually appealing. 
+
+Navigation bar was linked to correct sections.
+
+## Page
+
+## Link
+
+### Enjoy
 
 
